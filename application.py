@@ -15,4 +15,4 @@ def page2():
     return render_template('page2.html')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
